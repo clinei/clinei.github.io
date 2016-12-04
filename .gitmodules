@@ -1,0 +1,3 @@
+[submodule "projects/textrpg"]
+	path = projects/textrpg
+	url = https://github.com/clinei/textrpg.git
